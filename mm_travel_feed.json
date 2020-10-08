@@ -1,0 +1,48 @@
+[
+  {
+    "Product_0_name": "From Amsterdam to Los Angeles",
+    "Product_0_imageUrl": "",
+    "Product_0_price": "$799",
+    "Product_0_salePrice": "$399",
+    "Product_0_url": "https://www.google.com/flights#flt=/m/0k3p.LAX.2018-07-14*LAX./m/0k3p.2018-07-18;c:USD;e:1;sd:1;t:f"
+  },
+
+  {
+    "Product_1_name": "From London to Singapore",
+    "Product_1_imageUrl": "",
+    "Product_1_price": "$459",
+    "Product_1_salePrice": "$459",
+    "Product_1_url": "https://www.google.com/flights?lite=0#flt=/m/04jpl.SIN.2018-07-14*SIN./m/04jpl.2018-07-18;c:USD;e:1;sd:1;t:f"
+  },
+
+  {
+    "Product_2_name": "From New York to Buenos Aires",
+    "Product_2_imageUrl": "",
+    "Product_2_price": "$1050",
+    "Product_2_salePrice": "$299",
+    "Product_2_url": "https://www.google.com/flights?lite=0#flt=/m/02_286./m/01ly5m.2018-07-14*/m/01ly5m./m/02_286.2018-07-18;c:USD;e:1;sd:1;t:f"
+  },
+  {
+    "Product_3_name": "From Los Angeles to Dubai",
+    "Product_3_imageUrl": "",
+    "Product_3_price": "$499",
+    "Product_3_salePrice": "$499",
+    "Product_3_url": "https://www.google.com/flights?lite=0#flt=LAX./m/01f08r.2018-07-14*/m/01f08r.LAX.2018-07-18;c:USD;e:1;sd:1;t:f"
+  },
+
+  {
+    "Product_4_name": "From Mexico to Shanghai",
+    "Product_4_imageUrl": "",
+    "Product_4_price": "$1799",
+    "Product_4_salePrice": "$699",
+    "Product_4_url": "https://www.google.com/flights?lite=0#flt=MEX./m/06wjf.2018-07-14*/m/06wjf.MEX.2018-07-18;c:USD;e:1;sd:1;t:f"
+  },
+
+  {
+    "Product_5_name": "From Los Angeles to São Paulo",
+    "Product_5_imageUrl": "",
+    "Product_5_price": "$1399",
+    "Product_5_salePrice": "$499",
+    "Product_5_url": "https://www.google.com/flights?lite=0#flt=MEX./m/06wjf.2018-07-14*/m/06wjf.MEX.2018-07-18;c:USD;e:1;sd:1;t:f"
+  }
+]
